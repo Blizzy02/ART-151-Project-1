@@ -1,0 +1,125 @@
+
+* {
+    background-color: #a5b7c9;
+}
+
+
+.background {
+    background-color: grey;
+    color: white;
+    display: flex;
+    width: 1000px;
+    height: 100px;
+    margin-inline: 0% 10%;
+    writing-mode: horizontal-tb;
+    text-align: center;
+    border-style: groove;
+    border-color: lightgrey;
+    font-family: 'Times Pixelated 16', 'Times New Roman', serif;
+}
+.left-text {
+    background-color: grey;
+    color: lightgrey;
+    display: flex;
+    margin-inline: 300px;
+    width: 250px;
+    height: 40px;
+    text-align: left;
+    font-size: 25px;
+    line-height: 35px;
+    border-style: groove;
+    border-color: lightgrey;
+    position: absolute; right: 44%; top: 115px;
+    font-family: 'Times Pixelated 16', 'Times New Roman', serif;
+}
+
+
+.Header {
+   background-color: grey;
+    color: darkblue;
+    margin-inline: 20px;
+    height:50px;
+    width: 100%;
+    text-align: left;
+    font-family: 'Times Pixelated 16', 'Times New Roman', serif;
+    font-size: 45px
+    
+}
+.small-text {
+    font-size: 25px;
+    background-color: grey;
+    color: darkblue;
+    width: 25%;
+    height: 32px;
+    margin-inline: 2%;
+    border-style: groove;
+    border-color: lightgrey;
+    position: absolute; right: 71.2%; top: 160px;
+    font-family: 'Times Pixelated 16', 'Times New Roman', serif;
+}
+.right-text {
+    background-color: grey;
+    color: lightgrey;
+    margin-inline: 300px;
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    font-size: 25px;
+    border-style: groove;
+    border-color: lightgrey;
+    font-family: 'Times Pixelated 16', 'Times New Roman', serif;
+}
+.panel-text {
+    background-color: grey;
+    color: lightgrey;
+    margin-inline: 300px;
+    width: 385px;
+    height: 40px;
+    text-align: center;
+    font-size: 25px;
+    border-style: groove;
+    border-color: lightgrey;
+    font-family: 'Times Pixelated 16', 'Times New Roman', serif;
+}
+
+.panel-text {
+    border-style: groove;
+    border-color: lightgrey;
+
+}
+#id0{
+   position: absolute; right: 71.2%; top: 13.5%; 
+}
+#id1{
+    position: absolute; right: 71.2%; top: 17%;
+}
+#id2{
+    position: absolute; right: 71.2%; top: 20.5%;
+}
+#id3 {
+    position: absolute; right: 71.2%; top: 24%;
+}
+#id4 {
+    position: absolute; right: 71.2%; top: 27.5%;
+}
+#id5 {
+    position: absolute; right: 71.2%; top: 31%;
+}
+#id6 {
+    position: absolute; right: 71.2%; top: 34.5%;
+}
+#id7 {
+    position: absolute; right: 71.2%; top: 38%;
+}
+#What_game {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+#online_games {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
